@@ -1,0 +1,5 @@
+x=1468
+print x
+xrounded=(x-(x%100))
+print xrounded
+

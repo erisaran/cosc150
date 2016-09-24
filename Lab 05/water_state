@@ -1,0 +1,11 @@
+def water_state(temp):
+    if 0 < temp < 100:
+        print "Liquid"
+    elif temp>=100:
+        print "steam"
+    elif temp<=0:
+        print "Ice"
+
+
+
+    

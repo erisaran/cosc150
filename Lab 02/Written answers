@@ -1,0 +1,3 @@
+Variables are used to make values easier to put into the script.
+Any value can follow the print keyword such as a string or an integer.
+Can't divide by zero so there is an error. 
